@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="FactGuard AI Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1918" height="936" alt="image" src="https://github.com/user-attachments/assets/5cc9fa6c-d2df-43ed-832c-55a199b2dd26" />
+
 
 # FactGuard AI
 
