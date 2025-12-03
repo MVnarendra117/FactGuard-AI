@@ -1,0 +1,5 @@
+{
+  "name": "Veritas AI",
+  "description": "An advanced AI-powered tool designed to detect misinformation in text and identify AI-generated artifacts in images using Gemini 2.5 Flash with Google Search grounding.",
+  "requestFramePermissions": []
+}
